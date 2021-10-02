@@ -1,1 +1,1 @@
-# hibernate-data-loader
+# jpa-data-loader
